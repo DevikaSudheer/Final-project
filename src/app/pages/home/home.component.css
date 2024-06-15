@@ -1,0 +1,30 @@
+.hero-text {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+}
+.hero-text h1 {
+    font-size: 3rem;
+}
+.cta {
+    margin-top: 1rem;
+    background: #ff9900;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+.content {
+    padding: 2rem;
+}
+.content h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.content .featured-items {
+    display: flex;
+    justify-content: space-around;
+}
+.content .featured-items img {
+    width: 20%;
+    border-radius: 30px;
+}
